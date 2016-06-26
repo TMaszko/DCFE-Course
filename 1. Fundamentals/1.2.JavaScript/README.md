@@ -37,9 +37,9 @@
     * [Higher-order functions in JavaScript] (https://www.sitepoint.com/higher-order-functions-javascript/)
 
 You should also read this books (not only chapters mentioned by me):
-1. [JavaScript: The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
-2. [Eloquent JavaScript] (http://eloquentjavascript.net/index.html)
-3. [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
+* [JavaScript: The Good Parts](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
+* [Eloquent JavaScript] (http://eloquentjavascript.net/index.html)
+* [You Don't Know JS (book series)](https://github.com/getify/You-Dont-Know-JS)
 
 And also I'm encouraging you to find some articles on your own :)
 
