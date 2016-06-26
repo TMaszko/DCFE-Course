@@ -11,6 +11,13 @@ My name is Paweł and I've created this course for you guys (and girls) because 
 
 ***
 
+Content:
+1.Fundamentals
+    1.1 HTML and CSS
+    1.2 [JavaScript]() 
+
+***
+
 To get started just fork this repository and add me as collaborator. Then when doing exercises for every exercise create proper branch for example:
 **1.2-FizzBuzz**
 When you have done exercise just create Pull Request to master branch and assign me to it.
