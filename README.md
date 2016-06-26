@@ -13,7 +13,7 @@ My name is Paweł and I've created this course for you guys (and girls) because 
 
 ### Content:
 1. Fundamentals
-* [JavaScript](https://github.com/DeftCode-IT/DCFE-Course/tree/master/1.%20Fundamentals/1.2.JavaScript) 
+    * [JavaScript](https://github.com/DeftCode-IT/DCFE-Course/tree/master/1.%20Fundamentals/1.2.JavaScript) 
 
 ***
 
