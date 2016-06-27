@@ -5,3 +5,7 @@ function factorialize(n){
     }
     return result
 }
+
+function factorializeR(n){
+    return (n == 1) ? 1 : n * factorializeR(n-1);  // 5! = 5 * 4! .... 
+}
