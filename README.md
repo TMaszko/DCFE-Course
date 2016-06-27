@@ -12,18 +12,18 @@ My name is Paweł and I've created this course for you guys (and girls) because 
 ***
 
 ### Content:
-1. Basics
-    * [Foreword]() (Not ready yet.)
-    * [Git] () (Not ready yet.)
-    * [HTML and CSS]() (Not ready yet.)
+1. **Basics**
+    * [Foreword]() (Not ready yet)
+    * [Git] () (Not ready yet)
+    * [HTML and CSS]() (Not ready yet)
     * [JavaScript](https://github.com/DeftCode-IT/DCFE-Course/tree/master/1.%20Fundamentals/1.2.JavaScript)
-2. Advanced
-    * [HTML and CSS]() (Not ready yet.)
-    * [JavaScript]() (Not ready yet.)
-    * [jQuery]() (Not ready yet.)
-3. Expert
-    * [JavaScript] () (Not ready yet.)
-    * [Angular] () (Not ready yet.)
+2. **Advanced**
+    * [HTML and CSS]() (Not ready yet)
+    * [JavaScript]() (Not ready yet)
+    * [jQuery]() (Not ready yet)
+3. **Expert**
+    * [JavaScript] () (Not ready yet)
+    * [Angular] () (Not ready yet)
 
 ***
 
